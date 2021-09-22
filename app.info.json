@@ -1,12 +1,12 @@
 {
   "app_name": "dbaas",
-  "src_hash": "29ad80b836fc13aabc345f3132eb2789c9a35427",
+  "src_hash": "57a6751d35f588f6375433d7ffa9913ed3800f71",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.132.2","@patternfly/react-core@4.152.4","@patternfly/react-icons@4.11.14","@patternfly/react-table@4.29.58"],
   "travis": {
     "event_type": "push",
-    "build_number": "19",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/dbaas-ui/builds/238213026"
+    "build_number": "20",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/dbaas-ui/builds/238218299"
   }
 }
