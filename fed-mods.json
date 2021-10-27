@@ -1,12 +1,12 @@
 {
     "dbaas": {
         "entry": [
-            "/beta/apps/dbaas/dbaas.9c7cdd68b98b7477f37e.js"
+            "/beta/apps/dbaas/dbaas.5458e004cf602c15f9e0.js"
         ],
         "modules": [
             "/beta/apps/dbaas/js/503.fe94ad5e5b5222e8ae4c.js",
             "/beta/apps/dbaas/css/503.017ed5f0451bd9fa2eb8.css",
-            "/beta/apps/dbaas/js/HomePage.e222e8ee5fa30a74f7f5.js",
+            "/beta/apps/dbaas/js/HomePage.2d627e126422aae33abb.js",
             "/beta/apps/dbaas/css/HomePage.8ff80a064eb98adcb4a6.css",
             "/beta/apps/dbaas/js/OopsPage.2f03d94156a9f6fad437.js",
             "/beta/apps/dbaas/js/rhcsVendor.97f4a03d05bfc030fa02.js",
