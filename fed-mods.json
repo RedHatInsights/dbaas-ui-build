@@ -1,12 +1,12 @@
 {
     "dbaas": {
         "entry": [
-            "/apps/dbaas/dbaas.af9011478180c7051b2d.js"
+            "/apps/dbaas/dbaas.945415d4650f77c4b0d9.js"
         ],
         "modules": [
             "/apps/dbaas/js/503.18ee1fa096ff16ef13a3.js",
             "/apps/dbaas/css/503.017ed5f0451bd9fa2eb8.css",
-            "/apps/dbaas/js/HomePage.8158f5b68e3af4a71061.js",
+            "/apps/dbaas/js/HomePage.956d768a84c6ae8fee75.js",
             "/apps/dbaas/css/HomePage.54b4d499d8d32cc44a9d.css",
             "/apps/dbaas/js/OopsPage.474e37dac4342a665e8b.js",
             "/apps/dbaas/js/rhcsVendor.f60f73691b2991e87e66.js",
