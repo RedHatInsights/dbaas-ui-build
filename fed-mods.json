@@ -1,16 +1,17 @@
 {
     "dbaas": {
         "entry": [
-            "/beta/apps/dbaas/dbaas.05152ca4f9ac252eb6a4.js"
+            "/beta/apps/dbaas/dbaas.1655103487391.c4d19ac6fcf1d5434ecc.js"
         ],
         "modules": [
-            "/beta/apps/dbaas/js/503.18ee1fa096ff16ef13a3.js",
-            "/beta/apps/dbaas/css/503.017ed5f0451bd9fa2eb8.css",
-            "/beta/apps/dbaas/js/HomePage.769e8a7c9629f37e2c0e.js",
-            "/beta/apps/dbaas/css/HomePage.8ff80a064eb98adcb4a6.css",
-            "/beta/apps/dbaas/js/OopsPage.474e37dac4342a665e8b.js",
-            "/beta/apps/dbaas/js/rhcsVendor.f60f73691b2991e87e66.js",
-            "/beta/apps/dbaas/css/rhcsVendor.66cfcecf143c9f801945.css"
+            "/beta/apps/dbaas/js/182.1655103487414.c4d19ac6fcf1d5434ecc.js",
+            "/beta/apps/dbaas/css/182.04ca20d919ffe326cdab.css",
+            "/beta/apps/dbaas/js/HomePage.1655103487414.c4d19ac6fcf1d5434ecc.js",
+            "/beta/apps/dbaas/css/HomePage.fcc0be064fff1bf39e98.css",
+            "/beta/apps/dbaas/js/OopsPage.1655103487414.c4d19ac6fcf1d5434ecc.js",
+            "/beta/apps/dbaas/css/OopsPage.5f787dfcd1e9854e60b2.css",
+            "/beta/apps/dbaas/js/189.1655103487414.c4d19ac6fcf1d5434ecc.js",
+            "/beta/apps/dbaas/js/20.1655103487414.c4d19ac6fcf1d5434ecc.js"
         ]
     }
 }
