@@ -1,21 +1,11 @@
 {
-    "dbaas": {
-        "entry": [
-            "/beta/apps/dbaas/dbaas.1699347564637.dc6482db7a02183cf0fc.js"
-        ],
-        "modules": [
-            "/beta/apps/dbaas/js/20.1699347564663.dc6482db7a02183cf0fc.js",
-            "/beta/apps/dbaas/css/20.831e2f888b291969bc44.css",
-            "/beta/apps/dbaas/js/745.1699347564663.dc6482db7a02183cf0fc.js",
-            "/beta/apps/dbaas/js/HomePage.1699347564663.dc6482db7a02183cf0fc.js",
-            "/beta/apps/dbaas/css/HomePage.1399978f3c3524091f72.css",
-            "/beta/apps/dbaas/js/OopsPage.1699347564663.dc6482db7a02183cf0fc.js",
-            "/beta/apps/dbaas/css/OopsPage.5f787dfcd1e9854e60b2.css",
-            "/beta/apps/dbaas/js/TASPage.1699347564663.dc6482db7a02183cf0fc.js",
-            "/beta/apps/dbaas/css/TASPage.f9be73421078cffa8454.css",
-            "/beta/apps/dbaas/js/804.1699347564663.dc6482db7a02183cf0fc.js",
-            "/beta/apps/dbaas/css/804.021ed0aa7447c8410af1.css",
-            "/beta/apps/dbaas/js/17.1699347564663.dc6482db7a02183cf0fc.js"
-        ]
-    }
+  "name": "dbaas",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/dbaas/",
+  "loadScripts": [
+    "dbaas.a0e6e545876c6ff3e98b.js"
+  ],
+  "buildHash": "a0e6e545876c6ff3e98b6fc8746f2f9d"
 }
