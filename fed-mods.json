@@ -2,10 +2,10 @@
   "name": "dbaas",
   "version": "1.0.0",
   "extensions": [],
-  "registrationMethod": "callback",
+  "registrationMethod": "custom",
   "baseURL": "/beta/apps/dbaas/",
   "loadScripts": [
-    "dbaas.a0e6e545876c6ff3e98b.js"
+    "dbaas.15fa10d5bbb893e1a088.js"
   ],
-  "buildHash": "a0e6e545876c6ff3e98b6fc8746f2f9d"
+  "buildHash": "15fa10d5bbb893e1a08807ccd2d916af"
 }
