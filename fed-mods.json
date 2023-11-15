@@ -5,7 +5,7 @@
   "registrationMethod": "custom",
   "baseURL": "/beta/apps/dbaas/",
   "loadScripts": [
-    "dbaas.15fa10d5bbb893e1a088.js"
+    "dbaas.85a59dd7d4c5ce0a3eb6.js"
   ],
-  "buildHash": "15fa10d5bbb893e1a08807ccd2d916af"
+  "buildHash": "85a59dd7d4c5ce0a3eb6a3c2bbc3856a"
 }
