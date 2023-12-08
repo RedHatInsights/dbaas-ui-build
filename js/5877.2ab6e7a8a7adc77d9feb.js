@@ -1,2 +1,0 @@
-(self.webpackChunkdbaas=self.webpackChunkdbaas||[]).push([[5877],{8250:(e,s,a)=>{"use strict";a.r(s),a.d(s,{Bullseye:()=>t});var l=a(5353),c=a(2747),n=a(8296);a(7234);const t=e=>{var{children:s=null,className:a="",component:t="div"}=e,r=(0,l._T)(e,["children","className","component"]);const u=t;return c.createElement(u,Object.assign({className:(0,n.i)("pf-v5-l-bullseye",a)},r),s)};t.displayName="Bullseye"},7234:()=>{}}]);
-//# sourceMappingURL=../sourcemaps/5877.4d34f530b5fd2c57c1f47e3751200f28.js.map
