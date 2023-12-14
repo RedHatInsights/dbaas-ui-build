@@ -1,14 +1,14 @@
 {
   "app_name": "dbaas",
   "node_version": ">=16.0.0",
-  "src_hash": "7117353ff9a6e505c1a23f84d7d7d4939756596f",
+  "src_hash": "d2056e7ee313bf961c3c3866d09868d2d4a5950c",
   "src_tag": "",
   "src_branch": "prod-beta",
   "patternfly_dependencies": ["@patternfly/patternfly@5.1.0","@patternfly/react-core@5.1.1","@patternfly/react-icons@5.1.1","@patternfly/react-table@5.1.1"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-utilities@4.0.2","@redhat-cloud-services/frontend-components@4.1.0"],
   "travis": {
     "event_type": "push",
-    "build_number": "238",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/dbaas-ui/builds/267804546"
+    "build_number": "246",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/dbaas-ui/builds/267852784"
   }
 }
